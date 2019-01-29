@@ -215,7 +215,7 @@ app.layout = html.Div(
                     multiple=False
                     ),
 					
-					html.A("Source code can be found here.", href = 'https://github.com/renanxcortes/dash-webstars-prototype', target="_blank")
+					html.A("Source code can be found here.", href = 'https://github.com/renanxcortes/dash-webstars-prototype', target="_blank"),
     
                     html.P('This current prototype was supported by the National Science Foundation (NSF) (Award #1421935) and Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) foundation (Process 88881.170553/2018-01).')
     
