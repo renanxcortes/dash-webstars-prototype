@@ -1,3 +1,5 @@
+# Dash version app of the Space-Time Analysis of Regional Systems
+
 import pandas as pd
 import numpy as np
 from plotly import tools
