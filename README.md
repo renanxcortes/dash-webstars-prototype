@@ -13,6 +13,6 @@ The project is licensed under the [BSD license](https://github.com/pysal/pysal/b
 Funding
 -------
 
-<img src="figs/nsf_logo.jpg" width="50"> Award #1421935 [New Approaches for Spatial Distribution Dynamics](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1421935)
+<img src="NSF_logo.png" width="50"> Award #1421935 [New Approaches for Spatial Distribution Dynamics](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1421935)
 
 Also, some funding came from Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) foundation (Process 88881.170553/2018-01).
