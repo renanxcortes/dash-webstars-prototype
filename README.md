@@ -1,9 +1,7 @@
-Dash (by plotly) for STARS
+Dash (by plotly) for Space-Time Analysis of Regional Systems (STARS)
 ==========================
 
-# Web Space-Time Analysis of Regional Systems
-
-This is the code for the prototype of Web Stars deployed on Heroku in the current link: https://dash-webstars-prototype.herokuapp.com/
+This is the code for the prototype of Web STARS deployed on Heroku in the current link: https://dash-webstars-prototype.herokuapp.com/
 
 License
 -------
